@@ -6,27 +6,27 @@ subtitle: "UC Berkeley, Fall 2025"
 ::::{grid} 1 2 2 2
 
 :::{card}
-:header: **Sam Pimentel**
+:header: **Hugo Chardon**
 
-![Instructor Name](images/head_shot_151a.jpeg)
+<!-- ![Instructor Name](images/.jpeg) -->
 
 +++
 
-* **Office Hours**: Thu 4-5pm, Fri 12-1pm (429 Evans)
-* **Pronouns**: he/him
-* [spi@berkeley.edu](mailto:spi@berkeley.edu)
+* **Office Hours**: Tue/Thu 11am-12pm (after lectures)
+* 
+* [hchardon@berkeley.edu](mailto:hchardon@berkeley.edu)
 :::
 
 :::{card}
-:header: **Florica Constantine**
+:header: **Julian Morimoto**
 
-![GSI Name](images/florica_headshot.jpg)
+<!-- ![GSI Name](images/.jpg) -->
 
 +++
 
-* **Office Hours**: Tue 9am-12pm, Wed 12-1pm (Evans 428)
-* **Pronouns**: she/her
-* [florica@berkeley.edu](mailto:florica@berkeley.edu)
+* **Office Hours**: TBD
+* 
+* [jmmorimoto@berkeley.edu](mailto:jmmorimoto@berkeley.edu)
 
 :::
 

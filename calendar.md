@@ -2,7 +2,7 @@
 title: "Calendar"
 ---
 
-```{list-table} Anticipated Course Schedule
+<!-- ```{list-table} Anticipated Course Schedule
 :name: anticipated-schedule
 :header-rows: 1
 :align: left
@@ -95,4 +95,4 @@ title: "Calendar"
 * - Dec 15
   -  
   - Final exam: Monday Dec 15, 11:30 am–2:30 pm PST.<br>Final projects due: 11:59 AM, Friday Dec 19
-  -  
+  -   -->

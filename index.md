@@ -3,7 +3,7 @@ title: "Stat 151a: Linear Modelling: Theory and Applications"
 subtitle: "UC Berkeley, Fall 2026"
 ---
 
-::: {.grid}
+:::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6 .card .p-3}
 **Hugo Chardon**
@@ -25,7 +25,7 @@ subtitle: "UC Berkeley, Fall 2026"
 * [website](https://jmorimoto-h.github.io/my-site/)
 :::
 
-:::
+::::
 
 ## Schedule
 - Lectures Tu/Th 9:30---11 am, Moffitt Library 145

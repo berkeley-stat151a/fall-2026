@@ -12,7 +12,7 @@ subtitle: "UC Berkeley, Fall 2025"
 
 +++
 
-* **Office Hours**: Tue/Thu 11am-12pm (after lectures)
+* **Office Hours**: Tue/Thu 11am-12pm (after lectures), Gateway 3126
 * 
 * [hchardon@berkeley.edu](mailto:hchardon@berkeley.edu)
 :::
